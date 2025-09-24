@@ -68,6 +68,13 @@ https://hub.docker.com/repository/docker/zis89/custom-nginx/general
 12. Удалите запущенный контейнер "custom-nginx-t2", не останавливая его.(воспользуйтесь --help или google)
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+## Решение 3
+<img width="1092" height="768" alt="2025-09-24_12-14-32" src="https://github.com/user-attachments/assets/d0b6d71c-295e-4dac-a6ef-e893a0b7c343" />
+<img width="1103" height="368" alt="2025-09-24_12-21-02" src="https://github.com/user-attachments/assets/8948739b-e603-47e7-9dd1-ec5b28653cb8" />
+<img width="862" height="139" alt="2025-09-24_12-23-47" src="https://github.com/user-attachments/assets/f298ca0c-d1f8-4724-af95-8adb0b8a36f6" /> -  показываем проблему маппинга с хоста 
+<img width="652" height="90" alt="2025-09-24_12-26-08" src="https://github.com/user-attachments/assets/eb35e25f-adc4-4ccc-a85a-5900e30eae80" /> удаляем контейнер 
+
+
 
 ## Задача 4
 
