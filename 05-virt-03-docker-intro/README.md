@@ -29,6 +29,10 @@ Hey, Netology
 - Соберите и отправьте созданный образ в свой dockerhub-репозитории c tag 1.0.0 (ТОЛЬКО ЕСЛИ ЕСТЬ ДОСТУП). 
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
+## Решение 1
+
+https://hub.docker.com/repository/docker/zis89/custom-nginx/general
+
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
 - имя контейнера "ФИО-custom-nginx-t2"
@@ -39,6 +43,14 @@ Hey, Netology
 4. Убедитесь с помощью curl или веб браузера, что индекс-страница доступна.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+## Решение 2
+<img width="1022" height="371" alt="2025-09-24_09-40-11" src="https://github.com/user-attachments/assets/cccdb95b-f3f3-4a47-b3a6-71369ad8e24a" />
+<img width="1446" height="344" alt="2025-09-24_09-41-06" src="https://github.com/user-attachments/assets/e92591b7-249a-4b78-a245-a4437b541a99" />
+<img width="773" height="283" alt="2025-09-24_09-42-34" src="https://github.com/user-attachments/assets/9405fba9-afdd-4ebe-8f8c-d774b8f63432" />
+<img width="850" height="137" alt="2025-09-24_09-43-38" src="https://github.com/user-attachments/assets/2b643c76-40ce-412d-98d3-1f43c06e297c" />
+<img width="686" height="1204" alt="2025-09-24_09-53-16" src="https://github.com/user-attachments/assets/ec54962d-73a1-4c1b-a59c-8d987b9e5dc0" />
+
 
 
 ## Задача 3
